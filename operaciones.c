@@ -1,6 +1,6 @@
 #include "operaciones.h"
 
-/* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
+/* ── sumar — ya implementada y actualizada, referencia de estilo ───────────────────────── */
 
 int sumar(const int a, const int b) {
     return a + b;
